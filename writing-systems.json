@@ -1,6 +1,6 @@
 {
 	"Alphabet" : [
-		{"Latin"
+		{"Latin" : {
 			{"size" : "?"},
 			{"Associated Languages": [
 				{"English": [
@@ -106,172 +106,200 @@
                 {"Swahili" : [
                     "Kenya",
                     "United Republic of Tanzania" ]
-                }
+                },
                 {"Malagasy" : [
                     "Madagascar"]
-                }
+                },
                 {"Malagasy" :[ 
                     "Madagascar"]
 
-                }
+                },
 				{"Malay" : [
 					"Brunei",
                     "Malaysia" ]
-                }
+                },
 				{"German" : [
 					"Germany",
                     "Luxembourg",
 					"Switzerland",
 					"Belgium",
 					"Austria" ]
-                }
+                },
                 {"Luxembourgish" : [
                     "Luxembourg" ]
-                }
+                },
 				{"Dutch" : [
 					"Belgium",
                     "Suriname",
 					"Netherlands"]
-                }
+                },
 				{"Turkish" : [
 					"Northern Cyprus",
 					"Cyprus",
 					"Turkey" ]
-                }
+                },
                 {"Turkmen" : [
                     "Turkmenistan" ]
-                }
+                },
                 {"Bislama" : [
                     "Vanuatu" ]
-                }
+                },
                 {"Afrikaans" : [
                     "South Africa"]
-                }
+                },
                 {"Zulu" : [
                     "South Africa" ]
-                }
+                },
                 {"Xhosa" : [
                     "Zimbabwe",
                     "South Africa"]
-                }
+                },
                 {"Kalanga" : [
                     "Zimbabwe" ]
-                }
+                },
                 {"Khoisan" : [
                     "Zimbabwe" ]
-                }
+                },
                 {"Venda" : [
                     "Zimbabwe",
                     "South Africa"]
-                }
+                },
                 {"Tswana" : [
                     "South Africa",
                     "Zimbabwe"]
-                }
+                },
                 {"Tsonga" : [
                     "Zimbabwe",
                     "South Africa"]
-                }
+                },
                 {"Shona" : [
                     "Zimbabwe"]
-                }
+                },
                 {"Tonga" : [
                     "Zimbabwe"]
-                }
+                },
                 {"Ndebele" : [
                     "Zimbabwe",
                     "South Africa"]
-                }
+                },
 				{"Vietnamese" : [
                     "Vietnam"]
-                }
+                },
                 {"Uzbek" : [
                     "Uzbekistan"]
-                }
+                },
                 {"Tetum" : [
                     "East Timor"]
-                }
+                },
                 {"Swazi" : [
                     "Swaziland",
                     "South Africa"]
-                }
+                },
                 {"Swedish" : [
                     "Sweden" ]
-                }
+                },
                 {"Slovene" : [
                     "Slovenia"]
-                }
+                },
                 {"Slovak" : [
                     "Slovakia"]
-                }
+                },
                 {"Somali" : [
                     "Somaliland",
                     "Somalia"]
-                }
+                },
                 {"Kinyarwanda" : [
                     "Rwanda"]
+                },
+                {"Norwegian" : [
+                    "Norway" ]
+                },
+				{"Italian" : [
+                    "Italy",
+					"Switzerland"]
+                },
+                {"Maori" : [
+                    "New Zealand"]
+                },
+				{"Estonian" : [
+					"Estonia" ]
+                },
+				{"Polish" : [
+					"Poland"]
+                },
+				{"Danish" : [
+					"Denmark",
+					"Greenland"]
+                },
+                {"Chewa" : [
+                    "Zimbabwe",
+                    "Malawi"]
+                },
+                {"Montenegrin" : [
+                    "Montenegro"]
+                },
+                {"Latvian" : [
+                    "Latvia"]
+                },
+                {"Lithuanian" : [
+                    "Lithuania"]
+                },
+                {"Hiri Motu" : [
+                    "Papua New Guinea"]
+                },
+                {"Tok Pisin" : [
+                    "Papua New Guinea"]
+                },
+				{"Bosnian" : [
+					"Bosnia and Herzegovina"]
+                },
+				{"Czech" : [
+					"Czech Republic"]
+                },
+				{"Croatian" : [
+					"Bosnia and Herzegovina",
+					"Croatia"]
+                },
+                {"Irish" : [
+                    "Ireland"]
+                },
+				{"Hungarian" : [
+					"Hungary"]
+                },
+				{"Albania" : [
+					"Albania",
+					"Kosovo"]
+                },
+				{"Azerbaijani" : [
+					"Azerbaijan"]
+                },
+                {"Filipino" : [
+                    "Philippines"]
+                },
+				{"Kirundi" : [
+					"Burundi"]
+                },
+				{"Finnish" : [
+					"Finland"]
+                },
+                {"Romanian" : [
+                    "Romania",
+                    "Moldova"]
+                },
+				{"Romansh" : [
+					"Switzerland"]
+                },
+                {"Icelandic" : [
+                    "Iceland"]
+                },
+				{"Fijan" : [
+					"Fiji"]
                 }
-                "Norwegian"
-                    "Norway"
-				"Italian"
-                    "Italy"
-					"Switzerland"
-                "Maori"
-                    "New Zealand"
-				"Estonian"
-					"Estonia"
-				"Polish"
-					"Poland"
-				"Danish"
-					"Denmark"
-					"Greenland"
-                "Chewa"
-                    "Zimbabwe"
-                    "Malawi"
-                "Montenegrin"
-                    "Montenegro"
-                "Latvian"
-                    "Latvia"
-                "Lithuanian"
-                    "Lithuania"
-                "Hiri Motu"
-                    "Papua New Guinea"
-                "Tok Pisin"
-                    "Papua New Guinea"
-				"Bosnian"
-					"Bosnia and Herzegovina"
-				"Czech"
-					"Czech Republic"
-				"Croatian"
-					"Bosnia and Herzegovina"
-					"Croatia"
-                "Irish"
-                    "Ireland"
-				"Hungarian"
-					"Hungary"
-				"Albania"
-					"Albania"
-					"Kosovo"
-				"Azerbaijani"
-					"Azerbaijan"
-                "Filipino"
-                    "Philippines"
-				"Kirundi"
-					"Burundi"
-				"Finnish"
-					"Finland"
-                "Romanian"
-                    "Romania"
-                    "Moldova"
-				"Romansh"
-					"Switzerland"
-                "Icelandic"
-                    "Iceland"
-				"Fijan"
-					"Fiji"
+            ]
+        }
 
         }
-		"Cyrillic"
+		{"Cyrillic" : {
 			"size" 250000000
 			"Associated Languages"
 				"Russian"
