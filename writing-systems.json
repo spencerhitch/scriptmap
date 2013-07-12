@@ -1,9 +1,9 @@
 {
-	"Alphabet"
+	"Alphabet" : [
 		{"Latin"
-			"size" :
+			{"size" : "?"},
 			{"Associated Languages": [
-				    "English",
+				{"English": [
 					"Cameroon",
 					"Ghana",
 					"United Kingdom",
@@ -41,143 +41,176 @@
 					"Banjul", 
                     "Zambia",
                     "Zimbabwe" ]
-            }
-        }
-				"Spanish"
-					"Equatorial Guinea"
-					"Colombia"
-					"Cuba"
-					"Peru"
-					"Paraguay"
-					"Guatemala"
-					"Uruguay"
-					"Puerto Rico"
-                    "Nicaragua"
-					"Honduras"
-                    "Venezuela"
-					"El Salavador"
-					"Ecuador"
-                    "Panama"
-					"Costa Rica"
-					"Dominican Republic"
-					"Mexico"
-					"Spain"
-					"Bolivia"
-					"Chile"
-					"Argentina"
-				"French"
-					"Belgium"
-					"Canada"
-                    "Rwanda"
-					"Gabon"
-					"Switzerland"
-                    "Togo"
-                    "Vanuatu"
-                    "Chad"
-					"Benin"
-					"Guinea"
-                    "Madagascar"
-                    "Mali"
-                    "Luxembourg"
-					"Haiti"
-                    "French"
-					"Burkina Faso"
-					"Djibouti"
-					"Cameroon"
-                    "Niger"
-                    "New Caledonia"
-					"France"
-					"Ivory Coast"
-					"French Southern and Antarctic Lands"
-					"Democratic Republic of the Congo"
-					"Republic of the Congo"
-					"Burundi"
-					"Central African Republic"
-				"Portuguese"
-                    "Portugal"
-					"Guinea Bissau"
-					"Brazil"
-                    "East Timor"
-                    "Mozambique"
-					"Angola"
-                "Swahili"
-                    "Kenya"
-                    "United Republic of Tanzania"
-                "Malagasy"
-                    "Madagascar"
-                "Malagasy"
-                    "Madagascar"
-				"Malay"
-					"Brunei"
-                    "Malaysia"
-                "Malawi"
-				"German"
-					"Germany"
-                    "Luxembourg"
-					"Switzerland"
-					"Belgium"
-					"Austria"
-                "Luxembourgish"
-                    "Luxembourg"
-				"Dutch"
-					"Belgium"
-                    "Suriname"
-					"Netherlands"
-				"Turkish"
-					"Northern Cyprus"
-					"Cyprus"
-					"Turkey"
-                "Turkmen"
-                    "Turkmenistan"
-                "Bislama"
-                    "Vanuatu"
-                "Afrikaans"
-                    "South Africa"
-                "Zulu"
-                    "South Africa"
-                "Xhosa"
-                    "Zimbabwe"
-                    "South Africa"
-                "Kalanga"
-                    "Zimbabwe"
-                "Khoisan"
-                    "Zimbabwe"
-                "Venda"
-                    "Zimbabwe"
-                    "South Africa"
-                "Tswana"
-                    "South Africa"
-                    "Zimbabwe"
-                "Tsonga"
-                    "Zimbabwe"
-                    "South Africa"
-                "Shona"
-                    "Zimbabwe"
-                "Tonga"
-                    "Zimbabwe"
-                "Ndebele"
-                    "Zimbabwe"
-                    "South Africa"
-				"Vietnamese"
-                    "Vietnam"
-                "Uzbek"
-                    "Uzbekistan"
-                "Tetum"
-                    "East Timor"
-                "Swazi"
-                    "Swaziland"
-                    "South Africa"
-                "Swedish"
-                    "Sweden"
-                "Slovene"
-                    "Slovenia"
-                "Slovak"
-                    "Slovakia"
-                "Somali"
-                    "Somaliland"
-                    "Somalia"
-                "Kinyarwanda"
-                    "Rwanda"
+            },
+        
+				{"Spanish" : [
+					"Equatorial Guinea",
+					"Colombia",
+					"Cuba",
+					"Peru",
+					"Paraguay",
+					"Guatemala",
+					"Uruguay",
+					"Puerto Rico",
+                    "Nicaragua",
+					"Honduras",
+                    "Venezuela",
+					"El Salavador",
+					"Ecuador",
+                    "Panama",
+					"Costa Rica",
+					"Dominican Republic",
+					"Mexico",
+					"Spain",
+					"Bolivia",
+					"Chile",
+					"Argentina" ]
+                },
+				{"French" : [
+					"Belgium",
+					"Canada",
+                    "Rwanda",
+					"Gabon",
+					"Switzerland",
+                    "Togo",
+                    "Vanuatu",
+                    "Chad",
+					"Benin",
+					"Guinea",
+                    "Madagascar",
+                    "Mali",
+                    "Luxembourg",
+					"Haiti",
+                    "French",
+					"Burkina Faso",
+					"Djibouti",
+					"Cameroon",
+                    "Niger",
+                    "New Caledonia",
+					"France",
+					"Ivory Coast",
+					"French Southern and Antarctic Lands",
+					"Democratic Republic of the Congo",
+					"Republic of the Congo",
+					"Burundi",
+					"Central African Republic" ]
+                },
+				{"Portuguese" : [
+                    "Portugal",
+					"Guinea Bissau",
+					"Brazil",
+                    "East Timor",
+                    "Mozambique",
+					"Angola" ]
+                }
+                {"Swahili" : [
+                    "Kenya",
+                    "United Republic of Tanzania" ]
+                }
+                {"Malagasy" : [
+                    "Madagascar"]
+                }
+                {"Malagasy" :[ 
+                    "Madagascar"]
+
+                }
+				{"Malay" : [
+					"Brunei",
+                    "Malaysia" ]
+                }
+				{"German" : [
+					"Germany",
+                    "Luxembourg",
+					"Switzerland",
+					"Belgium",
+					"Austria" ]
+                }
+                {"Luxembourgish" : [
+                    "Luxembourg" ]
+                }
+				{"Dutch" : [
+					"Belgium",
+                    "Suriname",
+					"Netherlands"]
+                }
+				{"Turkish" : [
+					"Northern Cyprus",
+					"Cyprus",
+					"Turkey" ]
+                }
+                {"Turkmen" : [
+                    "Turkmenistan" ]
+                }
+                {"Bislama" : [
+                    "Vanuatu" ]
+                }
+                {"Afrikaans" : [
+                    "South Africa"]
+                }
+                {"Zulu" : [
+                    "South Africa" ]
+                }
+                {"Xhosa" : [
+                    "Zimbabwe",
+                    "South Africa"]
+                }
+                {"Kalanga" : [
+                    "Zimbabwe" ]
+                }
+                {"Khoisan" : [
+                    "Zimbabwe" ]
+                }
+                {"Venda" : [
+                    "Zimbabwe",
+                    "South Africa"]
+                }
+                {"Tswana" : [
+                    "South Africa",
+                    "Zimbabwe"]
+                }
+                {"Tsonga" : [
+                    "Zimbabwe",
+                    "South Africa"]
+                }
+                {"Shona" : [
+                    "Zimbabwe"]
+                }
+                {"Tonga" : [
+                    "Zimbabwe"]
+                }
+                {"Ndebele" : [
+                    "Zimbabwe",
+                    "South Africa"]
+                }
+				{"Vietnamese" : [
+                    "Vietnam"]
+                }
+                {"Uzbek" : [
+                    "Uzbekistan"]
+                }
+                {"Tetum" : [
+                    "East Timor"]
+                }
+                {"Swazi" : [
+                    "Swaziland",
+                    "South Africa"]
+                }
+                {"Swedish" : [
+                    "Sweden" ]
+                }
+                {"Slovene" : [
+                    "Slovenia"]
+                }
+                {"Slovak" : [
+                    "Slovakia"]
+                }
+                {"Somali" : [
+                    "Somaliland",
+                    "Somalia"]
+                }
+                {"Kinyarwanda" : [
+                    "Rwanda"]
+                }
                 "Norwegian"
                     "Norway"
 				"Italian"
@@ -236,6 +269,8 @@
                     "Iceland"
 				"Fijan"
 					"Fiji"
+
+        }
 		"Cyrillic"
 			"size" 250000000
 			"Associated Languages"
